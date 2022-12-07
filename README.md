@@ -20,8 +20,4 @@ The reason for this Election Audit was to send some additional data as requested
 * The winning candidate was Diana DeGette with a total of 272,892 votes for a percentage of 73.8% of the total votes.
 ![image](https://user-images.githubusercontent.com/45715246/206212761-2fc9397a-709a-455d-81eb-02b7311b255e.png)
 
-
-
-
-
 ## Election Audit Summary
