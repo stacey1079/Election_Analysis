@@ -4,7 +4,8 @@ The reason for this Election Audit was to send some additional data as requested
 
 ## Election Audit Results
 * The total amount of votes cast in the congressional election were 369,711
-"C:\Users\Stacey\Pictures\Screenshots\Screenshot_20221207_093903.png"
+![Screenshot_20221207_093903](https://user-images.githubusercontent.com/45715246/206208241-81895bdc-0a05-4bbf-a76f-dea15a9cb582.png)
+
 
 
 
