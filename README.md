@@ -1,11 +1,14 @@
 # Election_Analysis
 ## Overview of Election Audit
-The reason for this Election Audit was to send some additional data as requested by the election commission.  They wanted more data to show the voter turnout for each county, the percentage of votes from each county out of the total votes, and the county with the highest turnout.  In order to do this, I had to add some code to a script that we had previously been working on in order to get the results wanted by the election commission.\n
-<br \>
-The first thing I had to do was initialize some variables to hold the new values I was to work with.  I initialized a county list, a county votes dictionary, an empty string for largest_county_turnout, and then set largest_county_vote to zero.  Then I pulled the county name from each row to begin tracking the counties votes.  I then wrote an if statement to check if the county was in the list, if not, it was to be added to the list.  Then I set a county votes by county name variable to begin tracking the votes, and incremented that by 1.\n
-<br \>
-In the section after the code to print the election results, I started a for loop to loop through the counties in order to get their total votes, and to calculate the percentages of votes per county.  Another if statement was added to find the winning county, which was then printed to the text file, and to the terminal.\n
-<br \>
+The reason for this Election Audit was to send some additional data as requested by the election commission.  They wanted more data to show the voter turnout for each county, the percentage of votes from each county out of the total votes, and the county with the highest turnout.  In order to do this, I had to add some code to a script that we had previously been working on in order to get the results wanted by the election commission.
+
+
+The first thing I had to do was initialize some variables to hold the new values I was to work with.  I initialized a county list, a county votes dictionary, an empty string for largest_county_turnout, and then set largest_county_vote to zero.  Then I pulled the county name from each row to begin tracking the counties votes.  I then wrote an if statement to check if the county was in the list, if not, it was to be added to the list.  Then I set a county votes by county name variable to begin tracking the votes, and incremented that by 1.
+
+
+In the section after the code to print the election results, I started a for loop to loop through the counties in order to get their total votes, and to calculate the percentages of votes per county.  Another if statement was added to find the winning county, which was then printed to the text file, and to the terminal.
+
+
 By adding those things to the script, I was able to print out the results for total votes, total votes per county along with their percentages, and which county had the largest turnout.  This was added to the previously found candidate data.
 
 ## Election Audit Results
